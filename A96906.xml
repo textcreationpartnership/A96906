@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the army, concerning the Kings Majesties going to Richmond, and their further determination touching their proceedings with the Parliament of England, and the citizens of London. Likewise his Majesties last propositions to the Honourable Houses of Parliament assembled at Westminster, and his loyall and faithfull subjects, the citizens of London. Wherein is declared, His Majesties gallant resolution to unite himselfe with his two houses of Parliament, and to settle peace and truth within the kingdome of England, and dominion of Wales. Together with certain propositions sent from His Majesties royal court at Newmarket, to his Excellency Sir Thomas Fairfax at St. Albanes, concerning the Kings Majesty, the Parliament, and the army.</title>
+            <author>Woorell, A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96906</idno>
+            <idno type="STC">Wing W3531</idno>
+            <idno type="STC">Thomason E393_34</idno>
+            <idno type="STC">ESTC R201612</idno>
+            <idno type="EEBO-CITATION">99862112</idno>
+            <idno type="PROQUEST">99862112</idno>
+            <idno type="VID">160321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160321)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[34])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the army, concerning the Kings Majesties going to Richmond, and their further determination touching their proceedings with the Parliament of England, and the citizens of London. Likewise his Majesties last propositions to the Honourable Houses of Parliament assembled at Westminster, and his loyall and faithfull subjects, the citizens of London. Wherein is declared, His Majesties gallant resolution to unite himselfe with his two houses of Parliament, and to settle peace and truth within the kingdome of England, and dominion of Wales. Together with certain propositions sent from His Majesties royal court at Newmarket, to his Excellency Sir Thomas Fairfax at St. Albanes, concerning the Kings Majesty, the Parliament, and the army.</title>
+                  <author>Woorell, A.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Willet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iune 24. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters, signed: A. Woorell [and A. Woorel].</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early Works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160321:1" rendition="simple:additions"/>
+            <p>THE RESOLVTION OF THE <hi>ARMY,</hi> concerning the Kings Majeſties going to <hi>Richmond,</hi> and their further determination touching their proceedings with the Parliament of <hi>England,</hi> and the Citizens of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Likewiſe his Majeſties laſt</hi> PROPOSITIONS TO THE Honorable Houſes of Parliament aſſembled at Weſtminſter, and His loyall and faithfull Subjects, the Citiſens of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Wherein is declared,</hi> His <hi>Majeſties</hi> gallant Reſolution to unite Himſelfe with His two Houſes of Parliament and to ſettle peace and Truth within the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>Together with certaine Propoſitions ſent from His Majeſties Royal Court at <hi>Newmarket,</hi> to his Excellency Sir <hi>Thomas Fairfax</hi> at St. <hi>Albanes,</hi> concerning the Kings Majeſty, the Parliament, and the ARMY.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Iohn Willet, Iune</hi> 24. 1647.</p>
+            <pb facs="tcp:160321:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160321:2"/>
+            <head>The Kings MAJESTIES <hi>Deſires</hi> and <hi>Propoſitions</hi> To both houſes of Parliament, and the Citi<g ref="char:EOLhyphen"/>zens of <hi>London</hi> concerning the preſervation and ſafety of His Majeſties Royall Perſon.</head>
+            <div type="text_of_letter">
+               <opener>
+                  <salute>Worthy Sir,</salute>
+               </opener>
+               <p>HAving received your laſt, dated <hi>June</hi> 19. I find an earneſt expreſſion, wher<g ref="char:EOLhyphen"/>in you deſire to be ſatisfied in that great bu<g ref="char:EOLhyphen"/>ſineſſe now in diſpenbe betwixt the King, Parliament, and Army; and indeed, it is a
+<pb facs="tcp:160321:3"/> buſineſſe of high concernment, the eyes of the whole Kingdome being fixed upon this great Object.</p>
+               <p>But ſome rumour it abroad, that although we have his perſon, we cannot attaine his heart; for it is ſaid, that his Maieſty hath lately ſent a Meſſage (or Declaration) to the Militia and Citizens of <hi>London,</hi> declaring his reſolution and intention concerning the preſent deſign of the Army; the heads wher<g ref="char:EOLhyphen"/>of, I ſhall briefly communicate unto you, as followeth:</p>
+               <p n="1">
+                  <label>The firſt Propoſition.</label> 1. His Majeſty doth propound, that He hath no deſire to comply with the proceedings of the Ar<g ref="char:EOLhyphen"/>my ſaying, that he admired at their actions, and wondred by what Authority they durſt preſume to do that which they have already done.</p>
+               <p n="2">2. That He deſired to reſide no longer at New<g ref="char:EOLhyphen"/>market, for he found himſelf an abſolute priſo<g ref="char:EOLhyphen"/>ner, but with all willingneſſe, (according to the Votes of both Houſes of Parliament) would take his Journey towards <hi>Richmond,</hi> that ſo a firme Peace might ſpeedily be ſetled within the King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> and Dominion of <hi>Wales.</hi>
+               </p>
+               <p n="3">
+                  <pb facs="tcp:160321:3"/> 3. That his Maieſty deſires nothing more ear<g ref="char:EOLhyphen"/>neſtly, then to joyn with his two Houſes of Par<g ref="char:EOLhyphen"/>liament aſſembled at Weſtminſter, that ſo by the happy uniting of the Head and Body, there may be a ſpeedy compoſure of all differences now a<g ref="char:EOLhyphen"/>riſing within this languiſhing Kingdome.</p>
+               <p n="4">4. That for His Maieſties having any cor<g ref="char:EOLhyphen"/>reſpondencie with the preſent deſignes or actions of the Armie, He doth declare to all his loving Subjects the contrary, proteſting againſt all their proceedings, and that whatſoever they heard to the contrary, deſired them not to believe, no, though un<g ref="char:EOLhyphen"/>der his own hand, unleſſe they ſpake with one who had it from his own mouth.</p>
+               <p>Thus have I given you the chiefe heads of his Maieſties late Propoſitions to the Citi<g ref="char:EOLhyphen"/>zens of London for a ſafe and well-groun<g ref="char:EOLhyphen"/>ded peace, I ſhall now endeavour to ſatisfie your expectation, concerning the late Pro<g ref="char:EOLhyphen"/>poſitions ſent from the Commiſſioners at Newmarket, to his Excellency Sir <hi>Thomas Fairfax</hi> at St. <hi>Albanes,</hi> which followeth in theſe words:</p>
+               <p>1 According to the Votes of both Houſes of Parliament, you are required to deliver the
+<pb facs="tcp:160321:4"/> perſon of the King to ſuch perſons as both Houſes ſhall appoint, to be placed at Rich<g ref="char:EOLhyphen"/>mond, under ſuch guards, and in ſuch man<g ref="char:EOLhyphen"/>ner as they ſhall think fit. And ſecondly, that your Excellency would be pleaſed to ſend a ſpeedy anſwer to the Votes of both Houſes, concerning the removall of the per<g ref="char:EOLhyphen"/>ſon of his Maieſty from <hi>Newmarket</hi> to <hi>Rich<g ref="char:EOLhyphen"/>mond.</hi>
+               </p>
+               <p>After reading of the ſaid Propoſitions, the Generall ſummoned divers Collonels, Lieutenant-Colonels, Majors, and Captains to his quarters, to debate and conſult there<g ref="char:EOLhyphen"/>upon; but at the cloſe of this Letter, they had not concluded of any thing, divers que<g ref="char:EOLhyphen"/>ries being propounded which highly con<g ref="char:EOLhyphen"/>cerned the King: therefore, for further parti<g ref="char:EOLhyphen"/>culars, I refer you to the incloſed papers, and remaine</p>
+               <closer>
+                  <signed>Your friend and kinſman. A. Woorell.</signed>
+                  <dateline>St. Albanes <date>this 23 of <hi>Iune,</hi> 7 in the morning.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="enclosure">
+               <pb facs="tcp:160321:4"/>
+               <head>
+                  <hi>The Kings Anſwer and Reſolution upon the de<g ref="char:EOLhyphen"/>livery of the Votes to his Majeſty at New<g ref="char:EOLhyphen"/>market, being the ſubſtance of what was ſent by Sir</hi> Peter Killegrew <hi>to the Parliament.</hi>
+               </head>
+               <p>THat his Majeſty is content to remove to <hi>Richmond,</hi> it being nearer to His Parliament.</p>
+               <p>That to remove from <hi>Newmarket</hi> to <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> is agreeable to what himſelf hath al<g ref="char:EOLhyphen"/>wayes deſired in his late meſſages to the Houſes.</p>
+               <p>That it being neerer to his Parliament, it is much more convenient for treating with the houſes, and concurring in ſuch acts as ſhall be paſſed for the peace and ſecurity of the Kingdome,</p>
+               <p>That on Thurſday next his Majeſty may go from <hi>Newmarket</hi> to <hi>Richmond,</hi> according to the Votes of both houſes.</p>
+               <p>His Majeſty deſires that there may bee ſuch a concurrence between his Majeſty and the houſes, and ſo the Army alſo, as may conduce to a ſafe and well grounded peace.</p>
+               <pb facs="tcp:160321:5"/>
+               <p> 
+                  <hi>Sir,</hi> We hear that the Generall hath gave his aſſent (together with the Officers and Souldiers of the Army) that his Majeſties Royall perſon ſhall be conducted to <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> there to remain, with ſuch a Guard, as ſhall be thought meet by the Officers and Souldiers under command of his Excellency, to perform ſo great a Charge committed to their truſt, with faithfulneſſe and fidelity. Wee heare that his Majeſty is upon his ad<g ref="char:EOLhyphen"/>vance from <hi>Newmarket</hi> towards <hi>Richmond,</hi> being conducted with two gallant Regi<g ref="char:EOLhyphen"/>ments of horſe. The Army is much ſatisfied with the laſt Moneths pay ſent down from the Parliament, it having ſilenced many, and given great ſatisfaction to the reſt. By the next you ſhall hear further, from</p>
+               <closer>
+                  <signed>Your moſt offectionate friend and Kinſman. <hi>A. Woorel.</hi>
+                  </signed>
+                  <dateline>St. Albanes <date>Iune 23, 1647.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>His Majeſties Coach is gone from <hi>London</hi> to<g ref="char:EOLhyphen"/>wards Newmarket, being a very ſumptuous thing, and richly adorned.</p>
+               </postscript>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
